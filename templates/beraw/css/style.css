@@ -13,12 +13,12 @@ Name: style.css
 
 
 	Table of Contents
-	
-	
+
+
 
 		01. Generel Styles
 
-			+ Generate Google Fonts 
+			+ Generate Google Fonts
 			+ Essentials
 			+ Dividers
 			+ z-index
@@ -132,14 +132,14 @@ Name: style.css
 			+ Minimum Height
 			+ Regular Heights
 
-			
+
 		19. Loading Screen
-		
+
 		20. Reveal on Scroll Animation
-		
+
 		21. Template CSS
 
-	
+
 ====================================================*/
 
 
@@ -147,12 +147,12 @@ Name: style.css
 
 /*======================
 
-	01. Generel Styles 
+	01. Generel Styles
 
 ========================*/
 
 
-/* Generate Google Fonts 
+/* Generate Google Fonts
 -------------------------*/
 
 
@@ -163,7 +163,7 @@ Name: style.css
 
 
 
-	
+
 /* Essentials
 -------------------------*/
 
@@ -185,7 +185,7 @@ Name: style.css
 	-o-transition: all 0.3s;
 	transition: all 0.3s;
 
-	
+
 
 }
 
@@ -404,9 +404,9 @@ dl{
 }
 
 .no-shadow{
-	
+
 	box-shadow: none !important;
-	
+
 }
 
 .uk-notification-message{
@@ -444,7 +444,7 @@ dl{
 	z-index: 99999999 !important;
 }
 
-	
+
 /* Dividers
 -------------------------*/
 
@@ -659,9 +659,9 @@ hr.ridge{
 
 
 .opacity-hover:hover{
-	
+
 	opacity: 0.6
-	
+
 }
 
 .hidden{
@@ -676,31 +676,31 @@ hr.ridge{
 
 
 .pointer{
-	
+
 	cursor: pointer !important;
 
 }
 
 .swipe-black{
-	
+
 	cursor: url(../images/swipe-black.png), move;
 
 }
 
 .swipe-black-inverse{
-	
+
 	cursor: url(../images/swipe-black-inverse.png), move;
 
 }
 
 .swipe-white{
-	
+
 	cursor: url(../images/swipe-white.png), move;
 
 }
 
 .swipe-white-inverse{
-	
+
 	cursor: url(../images/swipe-white-inverse.png), move;
 
 }
@@ -751,7 +751,7 @@ hr.ridge{
 
 .cursor.active::before {
     opacity: .4;
-	
+
 }
 
 .cursor-follower {
@@ -786,12 +786,12 @@ hr.ridge{
 
 /*======================
 
-	02. Alignments 
+	02. Alignments
 
 ========================*/
 
 
-	
+
 /* Vertivcal Alignments
 -------------------------*/
 
@@ -847,7 +847,7 @@ hr.ridge{
 
 
 .center-col{
-	
+
 	float: none;
     margin-left: auto;
     margin-right: auto;
@@ -855,7 +855,7 @@ hr.ridge{
 }
 
 .right-col{
-	
+
 	float: right;
     margin-left: auto;
     margin-right: auto;
@@ -863,7 +863,7 @@ hr.ridge{
 }
 
 .left-col{
-	
+
 	float: left;
     margin-right: auto;
     margin-right: auto;
@@ -919,326 +919,326 @@ hr.ridge{
 }
 
 .top-1{
-	
+
 	top: 1px;
 
 }
 
 .top-2{
-	
+
 	top: 2px;
 
 }
 
 .top-3{
-	
+
 	top: 3px;
 
 }
 
 .top-4{
-	
+
 	top: 4px;
 
 }
 
 .top-5{
-	
+
 	top: 5px;
 
 }
 
 .top-6{
-	
+
 	top: 6px;
 
 }
 
 .top-7{
-	
+
 	top: 7px;
 
 }
 
 .top-8{
-	
+
 	top: 8px;
 
 }
 
 .top-9{
-	
+
 	top: 9px;
 
 }
 
 .top-10{
-	
+
 	top: 10px;
 
 }
 
 .top-11{
-	
+
 	top:  11px;
 
 }
 
 .top-12{
-	
+
 	top: 12px;
 
 }
 
 .top-45{
-	
+
 	top: 45px;
 
 }
 
 .top-50-percent{
-	
+
 	top: 50%;
 
 }
 
 .top-30-percent{
-	
+
 	top: 30%;
 
 }
 
 .top-25-percent{
-	
+
 	top: 25%;
 
 }
 
 .top-20-percent{
-	
+
 	top: 20%;
 
 }
 
 .top-15-percent{
-	
+
 	top: 15%;
 
 }
 
 .bottom-1{
-	
+
 	bottom: 1px;
 
 }
 
 .bottom-2{
-	
+
 	bottom: 2px;
 
 }
 
 .bottom-3{
-	
+
 	bottom: 3px;
 
 }
 
 .bottom-4{
-	
+
 	bottom: 4px;
 
 }
 
 .bottom-5{
-	
+
 	bottom: 5px;
 
 }
 
 .bottom-6{
-	
+
 	bottom: 6px;
 
 }
 
 .bottom-7{
-	
+
 	bottom: 7px;
 
 }
 
 .bottom-8{
-	
+
 	top: 8px;
 
 }
 
 .bottom-9{
-	
+
 	bottom: 9px;
 
 }
 
 .bottom-10{
-	
+
 	bottom: 10px;
 
 }
 
 .bottom-10-percent{
-	
+
 	bottom: 10%;
 
 }
 
 .bottom-20-percent{
-	
+
 	bottom: 20%;
 
 }
 
 .bottom-30-percent{
-	
+
 	bottom: 30%;
 
 }
 
 .bottom-40-percent{
-	
+
 	bottom: 40%;
 
 }
 
 .bottom-50-percent{
-	
+
 	bottom: 50%;
 
 }
 
 .bottom-100-percent{
-	
+
 	bottom: 100%;
 
 }
 
 .right-1{
-	
+
 	right: 1px;
 
 }
 
 .right-2{
-	
+
 	right: 2px;
 
 }
 
 .right-3{
-	
+
 	right: 3px;
 
 }
 
 .right-4{
-	
+
 	right: 4px;
 
 }
 
 .right-5{
-	
+
 	right: 5px;
 
 }
 
 .right-6{
-	
+
 	right: 6px;
 
 }
 
 .right-7{
-	
+
 	right: 7px;
 
 }
 
 .right-8{
-	
+
 	right: 8px;
 
 }
 
 .right-9{
-	
+
 	right: 9px;
 
 }
 
 .right-10{
-	
+
 	right: 10px;
 
 }
 
 
 .left-1{
-	
+
 	left: 1px;
 
 }
 
 .left-2{
-	
+
 	left: 2px;
 
 }
 
 .left-3{
-	
+
 	left: 3px;
 
 }
 
 .left-4{
-	
+
 	left: 4px;
 
 }
 
 .left-5{
-	
+
 	left: 5px;
 
 }
 
 .left-6{
-	
+
 	left: 6px;
 
 }
 
 .left-7{
-	
+
 	left: 7px;
 
 }
 
 .left-8{
-	
+
 	left: 8px;
 
 }
 
 .left-9{
-	
+
 	left: 9px;
 
 }
 
 .left-10{
-	
+
 	left: 10px;
 
 }
@@ -1275,7 +1275,7 @@ hr.ridge{
 
 /*======================
 
-	03. Navigations 
+	03. Navigations
 
 ========================*/
 
@@ -1286,7 +1286,7 @@ hr.ridge{
 
 
 .uk-logo img{
-	
+
 	width: 37px;
 	border-radius: 100%;
 
@@ -1303,7 +1303,7 @@ hr.ridge{
 
 
 .uk-navbar-container:not(.uk-navbar-transparent){
-	
+
 	background: #fff !important;
 	box-shadow: 0 5px 5px rgba(0,0,0,0.02) !important;
 
@@ -1317,19 +1317,19 @@ hr.ridge{
 
 
 .uk-nav-header:not(:first-child){
-	
+
 	margin-top: 8px;
 
 }
 
 .uk-navbar-dropdown-nav>li.uk-active>a{
-	
+
 	color: #000;
 
 }
 
 .navbar-white .uk-navbar-dropdown-nav>li>a{
-	
+
 	color: #e5e5e5 !important;
 	font-weight: 400;
 	font-size: 14px;
@@ -1339,25 +1339,25 @@ hr.ridge{
 }
 
 .navbar-white .text-black{
-	
+
 	color: #333333 !important;
 
 }
 
 .elements-nav li{
-	
+
 	margin-bottom: 10px;
 
 }
 
 .navbar-dark .text-gray-extra-light{
-	
+
 	color: #c0bfbf !important;
 
 }
 
 .navbar-dark .uk-navbar-container:not(.uk-navbar-transparent){
-	
+
 	background: #1f1f1f;
 
 }
@@ -1369,7 +1369,7 @@ hr.ridge{
 }
 
 .navbar-dark .uk-navbar-dropdown-grid>:not(.uk-first-column)::before{
-	
+
     border-left: 1px solid rgb(45, 45, 45);
 
 
@@ -1377,13 +1377,13 @@ hr.ridge{
 
 .navbar-dark .uk-navbar-dropdown-nav .uk-nav-header,
 .navbar-dark .uk-nav-primary a{
-	
+
 	color: #c0bfbf !important;
 
 }
 
 .navbar-dark .uk-navbar-dropdown-nav>li>a{
-	
+
 	font-weight: 400;
 	color: #8d8d8d !important;
 	font-size: 11px;
@@ -1433,8 +1433,8 @@ hr.ridge{
 }
 
 .navigation-button:hover{
-	
-	
+
+
 	transform: scale(1.2);
 	-webkit-transform: scale(1.2);
 	-moz-transform: scale(1.2);
@@ -1445,46 +1445,46 @@ hr.ridge{
 
 
 .toggle-big{
-	
+
 	transform: scale(1.4);
 
 }
 
 .toggle-square{
-	
+
 	padding: 15px;
 	margin: 20px;
 
 }
 
 .toggle-square:hover{
-	
+
 	background: #008fe5;
 
 }
 
 .menu-white .uk-nav-sub a{
-	
+
 	color: #666666 !important;
 	font-size: 12px;
 
 }
 
 .menu-white .uk-nav>li>a{
-	
+
 	padding-bottom: 10px !important;
 
 }
 
 
 .menu-white .nav-footer a{
-	
+
 	color: #8d8d8d !important;
 
 }
 
 .menu-dark .uk-nav-sub a{
-	
+
 	color: #444444 !important;
 	font-weight: 400;
 	font-size: 14px;
@@ -1500,13 +1500,13 @@ hr.ridge{
 
 
 .menu-dark .nav-footer a{
-	
+
 	color: #8d8d8d !important;
 
 }
 
 .menu-right a{
-	
+
 	font-size: 13px !important;
 	padding-top: 15px !important;
 	padding-bottom: 15px !important;
@@ -1515,14 +1515,14 @@ hr.ridge{
 }
 
 .uk-tab > .uk-active > a{
-	
+
 	color: #6f6f6f;
     border-color: #008fe5;
 
 }
 
 .uk-accordion-title:hover, .uk-accordion-title:focus{
-	
+
 	color: #000
 
 }
@@ -1537,7 +1537,7 @@ hr.ridge{
 
 /*======================
 
-	04. Icons 
+	04. Icons
 
 ========================*/
 
@@ -1552,12 +1552,12 @@ background: linear-gradient(to right, #ff8a00 0%, #da1b60 100%);
 .icon-gold{
 
 	color: #C28801;
-	
+
 }
 
 
 .video-icon{
-	
+
     position: absolute;
 	top: 50%;
 	transform: translate(-0%, -50%);
@@ -1568,7 +1568,7 @@ background: linear-gradient(to right, #ff8a00 0%, #da1b60 100%);
 
 .video-icon a span{
 
-	text-align: center; 
+	text-align: center;
 	width: 120px;
 	height: 120px;
 	line-height: 120px;
@@ -1584,7 +1584,7 @@ background: linear-gradient(to right, #ff8a00 0%, #da1b60 100%);
 .video-icon a span:hover{
 
 	box-shadow: rgba(0, 0, 0, 0.33) 0px 0px 1rem 0px;
-	
+
 }
 
 .uk-divider-vertical {
@@ -2086,10 +2086,10 @@ background: linear-gradient(to right, #ff8a00 0%, #da1b60 100%);
 	color: #af0606 !important;
 
 }
-	
-	
-	
-	
+
+
+
+
 /*======================
 
 	05. Visibility
@@ -2097,7 +2097,7 @@ background: linear-gradient(to right, #ff8a00 0%, #da1b60 100%);
 ========================*/
 
 
-	
+
 /* Display
 -------------------------*/
 
@@ -2205,7 +2205,7 @@ background: linear-gradient(to right, #ff8a00 0%, #da1b60 100%);
 
 
 /* Left Sides
-----------------------------*/	
+----------------------------*/
 
 
 .left-side{
@@ -2237,7 +2237,7 @@ background: linear-gradient(to right, #ff8a00 0%, #da1b60 100%);
 
 
 /* Right Sides
-----------------------------*/	
+----------------------------*/
 
 
 .right-side{
@@ -2250,7 +2250,7 @@ background: linear-gradient(to right, #ff8a00 0%, #da1b60 100%);
 	width: 65%;
 
 }
-	
+
 .right-side,
 .right-side-small,
 .right-side-large{
@@ -2280,9 +2280,9 @@ background: linear-gradient(to right, #ff8a00 0%, #da1b60 100%);
 	margin-left: auto;
 
 }
-	
+
 .container-spread{
-	
+
 	width: 100%;
 	padding-right: 10%;
 	padding-left: 10%;
@@ -2300,7 +2300,7 @@ background: linear-gradient(to right, #ff8a00 0%, #da1b60 100%);
 
 
 
-	
+
 /* Font Family
 -------------------------*/
 
@@ -2325,29 +2325,29 @@ background: linear-gradient(to right, #ff8a00 0%, #da1b60 100%);
 
 .page-title-extra-small h1{
 
-	font-size: 12px; 
-	line-height: 20px; 
+	font-size: 12px;
+	line-height: 20px;
 	text-transform: uppercase;
 
 }
 
 .page-title-smaller h1{
 
-	font-size: 16px; 
+	font-size: 16px;
 	line-height: 22px
 
 }
 
 .page-title-small h1{
 
-	font-size: 20px; 
+	font-size: 20px;
 	line-height: 26px
 
 }
 
 .page-title-medium h1{
 
-	font-size: 32px; 
+	font-size: 32px;
 	line-height: 37px
 
 }
@@ -2429,7 +2429,7 @@ h6{
 
 
 
-	
+
 /* Text Sizes
 -------------------------*/
 
@@ -2501,17 +2501,17 @@ h6{
 -------------------------*/
 
 .text-center{
-	
+
 	text-align: center;
 }
 
 .text-left{
-	
+
 	text-align: left !important;
 }
 
 .text-right{
-	
+
 	text-align: right;
 }
 
@@ -3319,8 +3319,8 @@ blockquote p{
 
 
 }
-	
-	
+
+
 /* Dropcap
 -------------------------*/
 
@@ -3328,9 +3328,9 @@ blockquote p{
 .dropcap{
 
 	float: left;
-	margin: 0 20px 0 0; 
-	text-align: center; 
-	padding: 10px 0; 
+	margin: 0 20px 0 0;
+	text-align: center;
+	padding: 10px 0;
 
 }
 
@@ -3592,7 +3592,7 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 -------------------------*/
 
 .modal-bg-1{
-	
+
     background: url(../images/backgrounds/bg-img-47.jpg);
     background-position: center center;
     z-index: 1;
@@ -3601,7 +3601,7 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 }
 
 .modal-bg-2{
-	
+
     background: url(../images/backgrounds/bg-img-48.jpg);
     background-position: center center;
     z-index: 1;
@@ -3611,7 +3611,7 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 
 
 .modal-bg-3{
-	
+
     background: url(../images/backgrounds/bg-11.jpg);
     background-position: center center;
     z-index: 1;
@@ -3621,7 +3621,7 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 
 
 .modal-bg-4{
-	
+
     background: url(../images/backgrounds/bg-img-50.jpg);
     background-position: center center;
     z-index: 1;
@@ -3631,7 +3631,7 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 
 
 .modal-bg-5{
-	
+
     background: url(../images/backgrounds/bg-img-51.jpg);
     background-position: center center;
     z-index: 1;
@@ -3641,7 +3641,7 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 
 
 .modal-bg-6{
-	
+
     background: url(../images/backgrounds/bg-img-39.jpg);
     background-position: center center;
     z-index: 1;
@@ -3651,7 +3651,7 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 
 
 .modal-bg-7{
-	
+
     background: url(../images/backgrounds/bg-56.jpg);
     background-position: center center;
     z-index: 1;
@@ -3661,7 +3661,7 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 
 
 .modal-bg-8{
-	
+
     background: url(../images/backgrounds/bg-60.jpg);
     background-position: center center;
     z-index: 1;
@@ -4563,7 +4563,17 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
     color: #fff
 
 }
-
+.btn-purple{
+	background: #c54b8c !important;
+	border-color: : #c54b8c !important;
+	color: #fff;
+}
+.btn-purple:hover,
+.btn-purple:focus{
+	background: transparent !important;
+	color: #c54b8c !important;
+	border-color: #c54b8c!important;
+}
 .btn-blue:hover,
 .btn-blue:focus{
 
@@ -4828,8 +4838,8 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 	10. Portfolio
 
 ========================*/
-	
-	
+
+
 
 /* Filter Styles
 -------------------------*/
@@ -4849,7 +4859,7 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 }
 
 .filter-style-1 li a{
-	
+
 	text-transform: capitalize !important;
 	border: none !important;
 	padding: 0px;
@@ -4865,7 +4875,7 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 .filter-style-1 li a:hover,
 .filter-style-1 li a:focus,
 .filter-style-1 li a:active{
-	
+
 	background: linear-gradient(to right, #ff8a00 0%, #da1b60 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -4873,13 +4883,13 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 }
 
 .filter-style-2{
-	
+
 	margin-bottom: 75px;
 
 }
 
 .filter-style-2 a{
-	
+
 	font-size: 16px !important;
 	border-bottom: 1px solid #fff !important;
 	margin-right: 30px;
@@ -4899,13 +4909,13 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 .filter-style-2 li a:hover,
 .filter-style-2 li a:focus,
 .filter-style-2 li a:active{
-	
+
 	border-bottom: 1px solid #000 !important;
 
 }
 
 .filter-style-3{
-	
+
 	text-align: center;
 	margin-bottom: 75px;
 
@@ -4917,7 +4927,7 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 }
 
 .filter-style-5{
-	
+
 	text-align: center;
 	margin-bottom: 75px;
 
@@ -4925,13 +4935,13 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 
 
 .filter-style-5 li{
-	
+
 	margin-right: 50px;
 
 }
 
 .filter-style-5 li a{
-	
+
 	text-transform: uppercase !important;
 	font-weight: 700 !important;
 	border-bottom: 3px solid #FBC445 !important;
@@ -4942,7 +4952,7 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 .filter-style-5 li a:hover,
 .filter-style-5 li a:focus,
 .filter-style-5 li a:active{
-	
+
 	border-bottom: 3px solid #000 !important;
 
 }
@@ -4955,13 +4965,13 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 
 
 .hover-custom-01 a .hover{
-	
+
 	background: transparent;
 
 }
 
 .hover-custom-01 .hover{
-	
+
 	position: absolute;
 	top: 0px;
 	left: 0px;
@@ -4981,7 +4991,7 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 
 
 .hover-custom-01 a:hover .hover{
-	
+
 	opacity: 1;
 	-moz-transform: translate(0%, 0%);
 	-webkit-transform: translate(0%, 0%);
@@ -4992,7 +5002,7 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 }
 
 .hover-custom-01 a:hover img{
-	
+
 	-o-transform: scale(1) translate(-100%, 0%);
 	-moz-transform: scale(1) translate(-100%, 0%);
 	-webkit-transform: scale(1) translate(-100%, 0%);
@@ -5001,7 +5011,7 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 }
 
 .hover-icon-01 span:hover{
-	
+
 	background: #ccc;
 
 }
@@ -5013,13 +5023,13 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 
 
 .hover-custom-02 a .hover{
-	
+
 	background: transparent;
 
 }
 
 .hover-custom-02 .hover{
-	
+
 	position: absolute;
 	top: 0px;
 	left: 0px;
@@ -5035,7 +5045,7 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 
 
 .hover-custom-02 a:hover .hover{
-	
+
 	opacity: 1;
 	-moz-transform: translate(0%, 0%);
 	-webkit-transform: translate(0%, 0%);
@@ -5046,7 +5056,7 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 }
 
 .hover-custom-02 a:hover img{
-	
+
 	-o-transform: scale(1.3);
 	-moz-transform: scale(1.3);
 	-webkit-transform: scale(1.3);
@@ -5056,7 +5066,7 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 }
 
 .hover-icon-02 span:hover{
-	
+
 	background: #ccc;
 
 }
@@ -5076,35 +5086,35 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 
 .pie-chart-1 .chart-style-1{
 
-	width: 130px; 
-	height: 130px; 
-	position: relative; 
-	display: inline-block; 
-	text-align: center; 
+	width: 130px;
+	height: 130px;
+	position: relative;
+	display: inline-block;
+	text-align: center;
 	margin: auto;
-	
+
 }
-	
+
 .pie-chart-1 .chart-style-1 canvas{
- 
-	position: absolute; 
-	top: 0; 
+
+	position: absolute;
+	top: 0;
 	left: 0;
-	
+
 }
-	
+
 .pie-chart-1 .percent{
 
-	display: inline-block; 
-	line-height: 130px; 
+	display: inline-block;
+	line-height: 130px;
 	z-index: 2;
 
 }
-	
+
 .percent:after{
 
-	content: '%'; 
-	
+	content: '%';
+
 }
 
 
@@ -5114,28 +5124,28 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 
 .pie-chart-2 .chart-style-2{
 
-	width: 150px; 
-	height: 150px; 
-	position: relative; 
-	display: inline-block; 
-	text-align: center; 
+	width: 150px;
+	height: 150px;
+	position: relative;
+	display: inline-block;
+	text-align: center;
 	margin: auto;
 
 }
-	
+
 .pie-chart-2 .chart-style-2 canvas{
- 
-	position: absolute; 
-	top: 0; 
+
+	position: absolute;
+	top: 0;
 	left: 0;
-	
+
 }
 
-	
+
 .pie-chart-2 .percent{
 
-	display: inline-block; 
-	line-height: 150px; 
+	display: inline-block;
+	line-height: 150px;
 	z-index: 2;
 
 }
@@ -5147,29 +5157,29 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 
 .pie-chart-3 .chart-style-3{
 
-	width: 200px; 
-	height: 200px; 
-	position: relative; 
-	display: inline-block; 
-	text-align: center; 
+	width: 200px;
+	height: 200px;
+	position: relative;
+	display: inline-block;
+	text-align: center;
 	margin: auto;
-	
+
 }
-	
+
 .pie-chart-3 .chart-style-3 canvas{
- 
-	position: absolute; 
-	top: 0; 
+
+	position: absolute;
+	top: 0;
 	left: 0;
 
 }
 
 .pie-chart-3 .percent{
 
-	display: inline-block; 
-	line-height: 200px; 
+	display: inline-block;
+	line-height: 200px;
 	z-index: 2;
-	
+
 }
 
 
@@ -5203,8 +5213,8 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
 }
 
 #return-to-top:hover{
-	
-	
+
+
 	transform: scale(1.2);
 	-webkit-transform: scale(1.2);
 	-moz-transform: scale(1.2);
@@ -10009,7 +10019,7 @@ background-image: linear-gradient(to right, #191919 0%, black 100%);
     padding-bottom: 19%;
 
 }
- 
+
 .padding-top-bottom-twenty-percent{
 
     padding-top: 20%;
@@ -11544,12 +11554,12 @@ footer ul li{
 
 	19. Loading Screen
 
-========================*/	
+========================*/
 
 
 
 #loader-wrapper{
-	
+
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -11565,7 +11575,7 @@ footer ul li{
 
 
 .loader-img img{
-	
+
 	display: block;
 	position: absolute;
 	left: 48%;
@@ -11573,7 +11583,7 @@ footer ul li{
 	width: 80px;
 	height: auto;
 	z-index: 1002;
-	-webkit-transition: all 0.2s;  
+	-webkit-transition: all 0.2s;
 	transition: all 0.2s 0.2s;
 }
 
@@ -11583,7 +11593,7 @@ footer ul li{
 
 
 #loader-wrapper .loader-section{
-	
+
 	position: fixed;
 	top: 0;
 	width: 100%;
@@ -11596,12 +11606,12 @@ footer ul li{
 }
 
 #loader-wrapper .loader-section.section-left{
-	
+
 	left: 0%;
 }
 
 #loader-wrapper .loader-section.section-right{
-	
+
 	right: 0%;
 }
 
@@ -11612,26 +11622,26 @@ footer ul li{
 
 
 .loaded #loader-wrapper .loader-section.section-left{
-	
+
 	opacity: 0;
-	-webkit-transition: all 0.8s;  
+	-webkit-transition: all 0.8s;
 	transition: all 0.8s 0.8s;
 }
 
 .loaded #loader-wrapper .loader-section.section-right{
-	
+
    opacity: 0;
-	-webkit-transition: all 0.8s 0.8s;  
+	-webkit-transition: all 0.8s 0.8s;
 	transition: all 0.8s 0.8s;
 }
 
 .loaded #loader{
-	
+
 	opacity: 0;
 }
 
 .loaded #loader-wrapper{
-	
+
 	visibility: hidden;
 	opacity: 1;
 }
@@ -11646,7 +11656,7 @@ footer ul li{
 
 	20. Reveal on Scroll Animation
 
-========================*/	
+========================*/
 
 
 .row {
@@ -11825,7 +11835,7 @@ footer ul li{
 
 	21. Template CSS
 
-========================*/	
+========================*/
 
 * {
   box-sizing: border-box;
