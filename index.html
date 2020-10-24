@@ -32,6 +32,7 @@
 		<link rel="stylesheet" href="templates/beraw/css/responsive.css">
 		<!-- Animate on Scroll -->
 		<link rel="stylesheet" href="templates/beraw/css/aos.css" />
+		  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
 		<!--[if lt IE 9]>
 		  <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
 		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
@@ -59,7 +60,7 @@
 						<!-- End Link -->
 						<!-- Link -->
 						<li class="uk-parent margin-bottom-10px">
-							<a href="#services" class="bottom-border border-1px border-color-gray-extra-light" data-uk-scroll><span class="text-medium text-gray-extra-dark text-weight-400 padding-bottom-25px manrope">Products</span></a>
+							<a href="products.html" class="bottom-border border-1px border-color-gray-extra-light"><span class="text-medium text-gray-extra-dark text-weight-400 padding-bottom-25px manrope">Products</span></a>
 						</li>
 						<!-- End Link -->
 						<!-- Link -->
@@ -136,14 +137,20 @@
 							<!-- Link -->
 							<li>
 
-								<a class="text-large uk-visible@l" href="#pricing" data-uk-scroll><span class="text-gray-dark">Products</span></a>
+								<a class="text-large uk-visible@l" href="products.html"><span class="text-gray-dark">Products</span></a>
 							</li>
 							<!-- End Link -->
 							<!-- Link -->
+							<div class="dropdown">
 							<li>
-								<a class="text-large uk-visible@l" href="#reviews" data-uk-scroll><span class="text-gray-dark">Tech tools</span></a>
-
+								<a class="text-large uk-visible@l dropdown-toggle" data-toggle="dropdown" style="line-height:80px; font-size:17px; font-weight:400; color:#444444;"><span class="text-gray-dark">Tech tools</span></a>
+								<div class="dropdown-menu">
+									<a class="dropdown-item" href="iep-creator.html">IEP Creator</a>
+									<a class="dropdown-item" href="SNM-app.html">Special Needs Management App</a>
+									<!-- <a class="dropdown-item" href="#">Link 3</a> -->
+								</div>
 							</li>
+						</div>
 							<!-- End Link -->
 							<!-- Link -->
 							<li>
@@ -237,8 +244,8 @@
 						<div class="col-md-2"></div>
 						<div class='col-md-8'>
 						<video width="400" controls>
-  					<source src="mov_bbb.mp4" type="video/mp4">
-  					<source src="mov_bbb.ogg" type="video/ogg">
+  					<source src="https://jump-hats-test.s3.ap-south-1.amazonaws.com/nn_org_main.mp4" type="video/mp4">
+  					<!-- <source src="mov_bbb.ogg" type="video/ogg"> -->
   						Your browser does not support HTML video.
 						</video>
 						</div>
@@ -683,7 +690,7 @@
 					<ul class="list-unstyled no-margin">
 						<li class="no-margin"><p class="text-gray-dark"><a class="text-gray-extra-dark" href="#">Advisory</a></p></li>
 						<li class="no-margin"><p class="text-gray-dark"><a class="text-gray-extra-dark" href="#">Research</a></p></li>
-						<li class="no-margin"><p class="text-gray-dark"><a class="text-gray-extra-dark" href="#">Products</a></p></li>
+						<li class="no-margin"><p class="text-gray-dark"><a class="text-gray-extra-dark" href="products.html">Products</a></p></li>
 						<li class="no-margin"><p class="text-gray-dark"><a class="text-gray-extra-dark" href="#">About Us</a></p></li>
 						<!-- <li class="no-margin"><p class="text-gray-dark no-margin-bottom"><a class="text-gray-extra-dark" href="#">Blog</a></p></li> -->
 					</ul>
