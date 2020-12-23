@@ -24,7 +24,7 @@
     .left-side-small {
         width: 100% !important
     }
-	
+
 	.loader-img img{
 		left: 46%;
 		bottom: 45%;
@@ -33,7 +33,7 @@
 }
 
 @media all and (max-width: 992px) {
-	
+
 	.md-container-small{
 		width: 100% !important;
 		padding-right: 20% !important;
@@ -42,7 +42,7 @@
 		margin-left: auto !important;
 	}
 	.md-container-spread{
-		
+
 		width: 100% !important;
 		padding-right: 10% !important;
 		padding-left: 10% !important;
@@ -220,7 +220,7 @@
     .md-text-italic {
         font-style: italic !important
     }
-	
+
 	.md-no-letter-spacing {
         letter-spacing: 0!important
     }
@@ -4268,7 +4268,7 @@
 		margin-left: auto !important;
 	}
 	.sm-container-spread{
-		
+
 		width: 100% !important;
 		padding-right: 10% !important;
 		padding-left: 10% !important;
@@ -4286,7 +4286,7 @@
 	}
 
 	h2 {
-		font-size: 46px !important;
+		font-size: 33px !important;
 		line-height: 1.4;
 	}
 
@@ -7806,7 +7806,7 @@
     .sm-full-screen {
         min-height: 980px !important
     }
-	
+
 	.sm-btn-small{
 
     padding: 5px 27px 4px 28px;
@@ -8084,7 +8084,7 @@
 		color: #ffffff !important;
 
 	}
-	
+
 	.bt-menu.bt-menu-open {
 		height: 100%;
 		border-width: 90px 90px 90px 90px;
@@ -8092,22 +8092,22 @@
 		-webkit-transition: border-width 0.3s, background-color 0.3s;
 		transition: border-width 0.3s, background-color 0.3s;
 	}
-	
+
 	.bt-menu ul {
 
 		width: 90px;
 
 	}
-	
+
 	.bt-menu-trigger {
 
 		position: fixed;
 		top: 80px;
 		left: 5px;
-	
+
 	}
-	
-	
+
+
 }
 
 
@@ -8125,7 +8125,7 @@
 		margin-left: auto !important;
 	}
 	.xs-container-spread{
-		
+
 		width: 100% !important;
 		padding-right: 10% !important;
 		padding-left: 10% !important;
@@ -8136,8 +8136,8 @@
 		left: 40%;
 		bottom: 45%;
 	}
-	
-	
+
+
 	.text-extra-small {
 		font-size: 11px !important;
 		line-height: 20px
@@ -11665,13 +11665,13 @@
     .xs-full-screen {
         min-height: 980px !important
     }
-	
+
 	.filter-style-5 li{
-		
+
 		margin-right: 20px;
 
 	}
-	
+
 	.xs-btn-xsall{
 
     padding: 5px 27px 4px 28px;
