@@ -241,10 +241,32 @@
 						</div>
 							<!-- <h6 class="text-blue text-weight-600">NerdNerdy.com</h6> -->
 							<div data-uk-scrollspy="cls: uk-animation-slide-left-medium; target: > div; delay: 50; repeat: false">
-								<div class="margin-top-25px margin-bottom-50px">
+								<div class="margin-top-25px margin-bottom-50px" id="pdf-viewer">
 									 <!-- <embed src="assets/2021-Catalogue.pdf" type="application/pdf" width="100%" height="1000px" style="align:center;" /> -->
 									 <embed src="https://jump-hats-test.s3.ap-south-1.amazonaws.com/2021-Catalogue.pdf" type="application/pdf" width="100%" height="1000px" style="align:center;" />
 								</div>
+								<br>
+								<div id="no-pdf">
+									PDF viewer is not supported on this device. Dowload the pdf by : <a href="https://jump-hats-test.s3.ap-south-1.amazonaws.com/2021-Catalogue.pdf" download="HTML 5 PDF" target="_blank">Clicking here</a> and browse through all our products
+								</div>
+								<style>
+									#no-pdf{
+										display: none;
+									}
+									#pdf-viewer{
+										display: block;
+									}
+								</style>
+								<script>
+								window.onload = function() {
+									if(screen.width <= 800){
+										console.log("hello");
+										document.getElementById('no-pdf').style.display = 'block';
+										document.getElementById('pdf-viewer').style.display = 'none';
+
+									}
+								}
+								</script>
 
 							</div>
 						</div>
